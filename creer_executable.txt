@@ -1,0 +1,6 @@
+pyinstaller --onefile --noconsole sails-adrena.py
+
+Ne pas oublier d'ajouter au dossier :
+config.ini
+dict_voiles.txt
+sail.png
